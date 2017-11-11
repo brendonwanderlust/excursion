@@ -1,0 +1,22 @@
+* {
+  font-family: verdana;
+}
+
+.download {
+  color: Aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
+
+h1 {
+  font-family: verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: White;
+  text-align: center;
+}
+
+body {
+  background-color: black;
+  text-align: center;
+}
