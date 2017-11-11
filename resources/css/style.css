@@ -29,3 +29,8 @@ h2 {
   font-size: 42px;
   color: White
 }
+
+footer {
+  text-align: right;
+  color: gray;
+}
